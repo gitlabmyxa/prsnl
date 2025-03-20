@@ -1,5 +1,5 @@
+dxvk-2.6.26.tzst
 dxvk-2.6.1.tzst
-dxvk-2.6.11.tzst
 dxvk-2.6.tzst
 dxvk-2.5.3.94.tzst
 dxvk-2.5.3.1.tzst
